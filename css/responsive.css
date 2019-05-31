@@ -1,0 +1,174 @@
+@media  (max-width: 576px) { 
+#banner .img-box .picture-box:hover{
+	  	padding: 10px !important;
+	  }
+	  .modal-dialog{
+	  	max-width: 363px !important;
+	  }
+	   .father-content{
+	  	margin-bottom: 0 !important;
+	  }
+	  .text-popup{
+	  	font-size: 26px;
+	  	left: 9%;
+	  }
+
+} 
+
+@media  (max-width: 768px) {  
+
+
+ #banner-2 .img-box{ 
+	margin-bottom: 10px;
+ } 
+ #footer-2 ul{
+ 	text-align: center !important;
+ }
+ .header-content{
+ 	text-align: center !important;
+ }
+ .liste-content li:first-child{
+ 	    width: 97% !important;
+ }
+ #banner img { 
+ 		margin-bottom: 10px;
+  }
+ .liste-content li{
+ 	    width: 47% !important;
+ 	    margin-bottom: 15px;
+ }
+ .wp-img{
+ 	    margin-left: 30px;
+ }
+.navbar {
+    display: inline-block  !important;
+}
+#header .header-content .liste{ 
+	display: none;
+ }
+ #header .header-content{
+ 	text-align: right;
+ }
+
+} 
+@media  (max-width: 992px) { 			
+	#banner-2 .img-box{
+		margin-bottom: 10px;
+	}
+	.p-t-7{ 
+	padding: 0;
+	 }
+	 #copy-right p{ 
+	 	text-align: center;
+	  }
+	  
+	  #footer .black-bg i{
+	  }
+	  #footer .black-bg{
+	  	position: relative !important;
+	  }
+	  #banner .img-box .picture-box:hover{
+	  	padding: 0 !important;
+	  }
+	  .father-content{
+	  	margin-bottom: 10px;
+	  }
+} 
+@media  (max-width: 1200px) { 			
+	#header .logo{
+		text-align: center !important;
+
+	}
+	.vintage-detay{ 
+	text-align:center; 
+	 }
+	 #vintage .piece ul#fiyatlar li .up{
+	 	padding: 0 !important;
+	 }
+
+
+
+	#header .header-content .liste {
+		text-align: center !important;
+	}
+	#liste .liste-content ul li{
+		margin-bottom: 10px;
+	}
+	#header .logo-content{
+		text-align: center;
+	}
+	
+	 .slc-logos{
+	  	text-align: center;
+	  	margin-top: 24px;
+	  }
+	 #liste .liste-content  ul li.active-tumu{
+	  	width: 97% !important;
+	  }
+	  #liste .liste-content ul li{ 
+	  	width: 48%;
+	   }
+	   #header .header-content .liste ul{
+	   	text-align: center !important;
+	   }
+	   .logo img { 
+	   		margin: auto;
+	    }
+	    #header .header-content{
+	    	text-align: center;
+	    }
+
+} 
+
+@media  (max-width: 576px) { 			
+	
+.modal-dialog{
+	  	max-width: 363px !important;
+	  }
+
+}
+@media  (max-width: 366px) { 			
+	#footer-2 .bulten-content a{
+	  	    padding: 4px 50px !important;
+	  }
+}
+@media  (max-width: 505px) { 			
+	 .bulten-content{
+	  	    text-align: center !important;
+	  }
+}
+@media  (max-width: 505px) { 			
+	 .kayit-ol-button{
+	  	    margin-top: 20px;
+	  }
+}
+
+
+
+
+
+@media  (max-width: 768px) { 			
+.wp-icon{
+	
+ 	display: inline-block !important;
+    position: relative;
+    top: -24px;
+ }
+}
+
+@media  (max-width: 500px) { 			
+#footer-2 input.form{
+	    padding: 0 20px;
+ }
+}
+
+
+
+
+
+
+
+ 
+
+
+

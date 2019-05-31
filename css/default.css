@@ -1,0 +1,10 @@
+/*Boostrap ezılcek kodları*/
+@media (min-width: 1354px) {
+	.container {
+	    margin-right: auto !important;
+	    margin-left: auto !important;
+	    padding-left: 25px !important;
+	    padding-right: 25px !important;
+	    max-width: 1404px !important;
+	}
+}
